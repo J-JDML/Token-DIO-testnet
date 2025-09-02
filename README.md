@@ -1,34 +1,30 @@
-# Token-DIO-testnet
+🪙 Deploy do DIOcoin na Sepolia Testnet
+📖 Descrição
 
-README - Deploy de Token na Testnet Sepolia
-Descrição
+Este projeto foi a criação e deploy de um token ERC-20 na rede de testes Sepolia (Ethereum Testnet).
+O objetivo é aprender na prática como funciona o processo de deploy de contratos inteligentes.
 
-Este projeto consiste na criação e deploy de um contrato inteligente de token ERC-20 na rede de testes Sepolia (Ethereum Testnet).
+⚙️ Passos Realizados
 
-Passos Realizados
+1️⃣ Escrevi o contrato do token em Solidity.
+2️⃣ Compilei e fiz o deploy na rede Sepolia Testnet.
+3️⃣ Usei ETH de faucet para pagar as taxas de gas.
+4️⃣ O contrato foi publicado com sucesso 🎉
 
-Desenvolvido o contrato do token em Solidity.
+📌 Informações do Contrato
 
-Compilado e feito o deploy do contrato na Sepolia Testnet.
+🌐 Rede: Sepolia Testnet
 
-Financiado o endereço da carteira com ETH de teste para pagar taxas de gas.
+📍 Endereço do Deploy: 0x48caF356d6552C60aDf5E0191460526911f0A0a3
 
-Deploy realizado com sucesso, conforme comprovado pelo Etherscan.
+🔑 Hash da Transação: 0x95d98bda35d59328d119b473087f9471de093c321ab2e8b8fa9cd737eed7b1d2
 
-Informações do Contrato
+🔎 Explorer: Ver no Etherscan Sepolia
 
-Rede: Sepolia Testnet
+📝 Observações
 
-Endereço do Deploy: 0x48caF356d6552C60aDf5E0191460526911f0A0a3
+Este token é apenas para estudo e testes (não tem valor real 💸).
 
-Hash da Transação de Deploy: 0x95d98bda35d59328d119b473087f9471de093c321ab2e8b8fa9cd737eed7b1d2
+As transações foram feitas usando ETH de faucet.
 
-Explorer: Etherscan Sepolia
-
-Observações
-
-Este token foi criado apenas para fins de teste e estudo.
-
-O saldo utilizado é ETH de faucet (não possui valor real).
-
-Prints do Etherscan foram gerados como comprovação do deploy.
+Prints do Etherscan foram salvos como registro do deploy ✅
